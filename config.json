@@ -1,6 +1,6 @@
 {
     "token": "TOKEN",
     "ticket-category-id": "ID",
-    "ticket-selection-channel-id"
+    "ticket-selection-channel-id": "ID",
     "support-role-id": "ID"
 }
