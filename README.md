@@ -10,7 +10,7 @@ Github Direct Link
  ## At any time, you can not use this bot and name it as your own. Or republish it as your own. COPYRIGHTED BY THE DEVELOPER. (c) 2025 -- This falls under the copyright law of the USA.
 
  Use the ``/help`` command to get help on how to use this bot.
- This bot is not affiliated with Discord in any way. It is a third-party bot created by SMOC DEVELOPMENT.
+ This bot is not affiliated with Discord in any way. It is a third-party bot created by NEXUS DEVELOPMENT.
 
  If you have any questions or concerns, please contact the developer at SMOC https://discord.gg/zc6N76f3.
 
